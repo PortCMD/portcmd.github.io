@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="main-pos">
+        <div class="main">
+            Привет! <br>
+            Я — <span class="colored">веб-разработчик</span><br>
+            <div class="lore">Мой ник - PortCMD. В основном занимаюсь фронтендом, но могу быть фуллстек разработчиком.</div>
+            <div class="links">
+                <button class="link" id="telegram"></button>
+                <button class="link" id="github"></button>
+                <button class="link" id="stack"></button>
+            </div>
+        </div>
+    </div>
+
+    <div class="cir">
+        <img src="img/1.gif" alt="1">
+    </div>
+</body>
+</html>
